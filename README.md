@@ -14,3 +14,5 @@ In the back-end, working with 2 databases, 2 JSONs files, 2 custom REST APIs, an
 Used technologies/Frameworks/Libraries:  
 Front-end: HTML5, CSS, JS, React (hooks), bootstrap, and more
 Back-end: NodeJs, MongoDB, Express, Mongoose, and more
+
+[Presentation on Google-Slides](https://drive.google.com/file/d/10fCF1oboT1RstG1yyBy-A_DwEPHRetyr/view?usp=sharing)
