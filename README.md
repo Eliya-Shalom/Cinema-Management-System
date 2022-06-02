@@ -17,5 +17,4 @@ Back-end: NodeJs, MongoDB, Express, Mongoose, and more
 
 [Presentation on Google-Slides](https://drive.google.com/file/d/10fCF1oboT1RstG1yyBy-A_DwEPHRetyr/view?usp=sharing)
 
-
-[![all-Movies.png](https://i.postimg.cc/8zhLYnRb/all-Movies.png)](https://postimg.cc/qNvthwZt)
+![allMovies](https://user-images.githubusercontent.com/104057898/171574019-f207338b-cd99-4867-bb2e-49e1a2debfdb.png)
